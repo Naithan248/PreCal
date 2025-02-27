@@ -646,4 +646,4 @@ class PrecalculusGuide:
         print("- arcsin(-x) = -arcsin x")
         print("- arccos(-x) = π - arccos x")
         print("- arctan(-x) = -arctan x")
-        print("- arcsin x + arc
+     
